@@ -1,5 +1,5 @@
 # 玩家投稿攻略
-访问速度慢可尝试：http://gl.ffsusu.com/
+访问速度慢可尝试：[http://gl.ffsusu.com/](http://gl.ffsusu.com/)
 
 
 [FF14 亚历山大绝境战（绝亚）大型图解攻略](jy/shenshen/index.html)
