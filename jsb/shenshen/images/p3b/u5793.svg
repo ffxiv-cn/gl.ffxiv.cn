@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.5px" height="74.5px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.5px" height="57.5px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="7.5" y1="0" x2="7.5" y2="58" id="LinearGradient392">
-      <stop id="Stop393" stop-color="#0000ff" offset="0" />
-      <stop id="Stop394" stop-color="#008000" offset="0.48" />
-      <stop id="Stop395" stop-color="#ff3366" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="10" y1="0" x2="10" y2="42" id="LinearGradient364">
+      <stop id="Stop365" stop-color="#0000ff" offset="0" />
+      <stop id="Stop366" stop-color="#008000" offset="0.48" />
+      <stop id="Stop367" stop-color="#ff3366" offset="1" />
     </linearGradient>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="7.5" y1="0" x2="7.5" y2="58" id="LinearGradient396">
-      <stop id="Stop397" stop-color="#0000ff" offset="0" />
-      <stop id="Stop398" stop-color="#008000" offset="0.48" />
-      <stop id="Stop399" stop-color="#ff3366" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="10" y1="0" x2="10" y2="42" id="LinearGradient368">
+      <stop id="Stop369" stop-color="#0000ff" offset="0" />
+      <stop id="Stop370" stop-color="#008000" offset="0.48" />
+      <stop id="Stop371" stop-color="#ff3366" offset="1" />
     </linearGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -843.5 -1386 )">
-    <path d="M 0 58  L 12.7465546016994 8.71332220676222  " stroke-width="5" stroke="url(#LinearGradient392)" fill="none" transform="matrix(1 0 0 1 846 1399 )" />
-    <path d="M 23.1290956199112 14.4971653919772  L 15 0  L 0.861716652844374 8.73836048670126  L 23.1290956199112 14.4971653919772  Z " fill-rule="nonzero" fill="url(#LinearGradient396)" stroke="none" transform="matrix(1 0 0 1 846 1399 )" />
+  <g transform="matrix(1 0 0 1 -771 -1512.5 )">
+    <path d="M 20 0  L 3.86940222446832 33.8742553286165  " stroke-width="5" stroke="url(#LinearGradient364)" fill="none" transform="matrix(1 0 0 1 784 1515 )" />
+    <path d="M -5.22369300176702 26.2214375996008  L 0 42  L 15.5420989311834 36.1099099486248  L -5.22369300176702 26.2214375996008  Z " fill-rule="nonzero" fill="url(#LinearGradient368)" stroke="none" transform="matrix(1 0 0 1 784 1515 )" />
   </g>
 </svg>
