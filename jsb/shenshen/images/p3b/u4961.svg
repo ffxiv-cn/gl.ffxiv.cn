@@ -1,19 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="130.5px" height="36px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="57.5" y1="0" x2="57.5" y2="10" id="LinearGradient240">
-      <stop id="Stop241" stop-color="#0000ff" offset="0" />
-      <stop id="Stop242" stop-color="#008000" offset="0.48" />
-      <stop id="Stop243" stop-color="#ff3366" offset="1" />
-    </linearGradient>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="57.5" y1="0" x2="57.5" y2="10" id="LinearGradient244">
-      <stop id="Stop245" stop-color="#0000ff" offset="0" />
-      <stop id="Stop246" stop-color="#008000" offset="0.48" />
-      <stop id="Stop247" stop-color="#ff3366" offset="1" />
-    </linearGradient>
-  </defs>
-  <g transform="matrix(1 0 0 1 -884.5 -4335 )">
-    <path d="M 0 9.99999999998469  L 106.033831818833 0.779666798379086  " stroke-width="5" stroke="url(#LinearGradient240)" fill="none" transform="matrix(1 0 0 1 887 4348 )" />
-    <path d="M 104.041353529837 12.4963221606452  L 114.999999999993 0  L 102.048872353452 -10.4172113678561  L 104.041353529837 12.4963221606452  Z " fill-rule="nonzero" fill="url(#LinearGradient244)" stroke="none" transform="matrix(1 0 0 1 887 4348 )" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="61px" height="45px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -915 -4560 )">
+    <path d="M 30.3726777278112 20.0722765462106  C 15.6245837969927 20.0722765462087  3.76808322889849 30.674785542873  1.8584528085014 44.8245267129514  C 0.887807651824005 41.8274754975391  0.364613211683263 38.6110359188933  0.364613211683036 35.2512829413954  C 0.364613211682126 19.7606933566458  11.486649828999 7.31665157046518  26.3068853758039 5.37546053078222  L 30.3726777278104 0.475173188737244  L 34.4384698059424 5.37546075808677  C 49.2587056266241 7.31665157046518  60.3807422439419 19.7606933566458  60.3807422439414 35.2512829413954  C 60.3807422439415 38.6110359188933  59.8575478038003 41.8274754975391  58.8869026392398 44.8245267433449  C 56.9772722267293 30.6747855428748  45.1207716586322 20.0722765462106  30.3726777278112 20.0722765462106  Z " fill-rule="nonzero" fill="#ff0000" stroke="none" transform="matrix(1 0 0 1 915 4560 )" />
   </g>
 </svg>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="6px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="6.05302042590177" cy="4.01191021530006" r="6.42475919191877" gradientTransform="matrix(-0.976949918919416 0.213468629834332 -0.149150396718604 -0.682594290758896 12.5648962404155 5.4582872466247 )" gradientUnits="userSpaceOnUse" id="RadialGradient93">
+      <stop id="Stop94" stop-color="#ff6578" offset="0" />
+      <stop id="Stop95" stop-color="#fbdade" offset="1" />
+    </radialGradient>
+    <mask fill="white" id="clip96">
+      <path d="M 0 3.36  C 0 1.74719999999999  1.925 0  3.675 0  C 5.425 0  7.95 1.74719999999999  7.95 3.36  C 7.95 4.97280000000001  4.925 6  3.175 6  C 1.425 6  0 4.97280000000001  0 3.36  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -4 -6 )">
+    <path d="M 0 3.36  C 0 1.74719999999999  1.925 0  3.675 0  C 5.425 0  7.95 1.74719999999999  7.95 3.36  C 7.95 4.97280000000001  4.925 6  3.175 6  C 1.425 6  0 4.97280000000001  0 3.36  Z " fill-rule="nonzero" fill="url(#RadialGradient93)" stroke="none" transform="matrix(1 0 0 1 4 6 )" />
+    <path d="M 0 3.36  C 0 1.74719999999999  1.925 0  3.675 0  C 5.425 0  7.95 1.74719999999999  7.95 3.36  C 7.95 4.97280000000001  4.925 6  3.175 6  C 1.425 6  0 4.97280000000001  0 3.36  Z " stroke-width="2" stroke="#555555" fill="none" transform="matrix(1 0 0 1 4 6 )" mask="url(#clip96)" />
+  </g>
+</svg>
