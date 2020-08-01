@@ -1,14 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="213px" height="213px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="441px" height="351px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="951.5" cy="1712.5" r="106.5" gradientTransform="matrix(-1 0 0 -1 1903 3425 )" gradientUnits="userSpaceOnUse" id="RadialGradient95">
-      <stop id="Stop96" stop-color="#f9dfc1" stop-opacity="0" offset="0" />
-      <stop id="Stop97" stop-color="#f6e0bf" stop-opacity="0" offset="0.82" />
-      <stop id="Stop98" stop-color="#f5f9c5" offset="0.94" />
-      <stop id="Stop99" stop-color="#f5f9c5" offset="1" />
-    </radialGradient>
+    <mask fill="white" id="clip92">
+      <path d="M 41.7180789481099 0  L 399.28192118738 0.00258645618941955  C 425.607692438428 36.3312596604833  441 81.3166787991181  441 130.5  C 441 253.98  343.98 351  220.5 351  C 97.02 351  0 253.98  0 130.5  C 0 81.3166787991181  15.3923075615716 36.3312596604833  41.7180789481099 0  Z M 271 130.5  C 271 103.34  249.66 82  222.5 82  C 195.34 82  174 103.34  174 130.5  C 174 157.66  195.34 179  222.5 179  C 249.66 179  271 157.66  271 130.5  Z " fill-rule="evenodd" />
+    </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -845 -1606 )">
-    <path d="M 951.5 1606  C 1011.14 1606  1058 1652.86  1058 1712.5  C 1058 1772.14  1011.14 1819  951.5 1819  C 891.86 1819  845 1772.14  845 1712.5  C 845 1652.86  891.86 1606  951.5 1606  Z " fill-rule="nonzero" fill="url(#RadialGradient95)" stroke="none" />
+  <g transform="matrix(1 0 0 1 -182 -3437 )">
+    <path d="M 41.7180789481099 0  L 399.28192118738 0.00258645618941955  C 425.607692438428 36.3312596604833  441 81.3166787991181  441 130.5  C 441 253.98  343.98 351  220.5 351  C 97.02 351  0 253.98  0 130.5  C 0 81.3166787991181  15.3923075615716 36.3312596604833  41.7180789481099 0  Z M 271 130.5  C 271 103.34  249.66 82  222.5 82  C 195.34 82  174 103.34  174 130.5  C 174 157.66  195.34 179  222.5 179  C 249.66 179  271 157.66  271 130.5  Z " fill-rule="nonzero" fill="#f8e881" stroke="none" transform="matrix(1 0 0 1 182 3437 )" />
+    <path d="M 41.7180789481099 0  L 399.28192118738 0.00258645618941955  C 425.607692438428 36.3312596604833  441 81.3166787991181  441 130.5  C 441 253.98  343.98 351  220.5 351  C 97.02 351  0 253.98  0 130.5  C 0 81.3166787991181  15.3923075615716 36.3312596604833  41.7180789481099 0  Z " stroke-width="4" stroke="#fafefd" fill="none" transform="matrix(1 0 0 1 182 3437 )" mask="url(#clip92)" />
+    <path d="M 271 130.5  C 271 103.34  249.66 82  222.5 82  C 195.34 82  174 103.34  174 130.5  C 174 157.66  195.34 179  222.5 179  C 249.66 179  271 157.66  271 130.5  Z " stroke-width="4" stroke="#fafefd" fill="none" transform="matrix(1 0 0 1 182 3437 )" mask="url(#clip92)" />
   </g>
 </svg>
