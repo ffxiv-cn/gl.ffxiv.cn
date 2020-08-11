@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="398px" height="317px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="107px" height="106px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="199" cy="119.999999999999" r="199.002512546952" gradientTransform="matrix(-0.999987374295327 -0.00502506218238151 0.00499600598274873 -0.994205190568395 397.39796676684 240.3046102425 )" gradientUnits="userSpaceOnUse" id="RadialGradient181">
-      <stop id="Stop182" stop-color="#f9dfc1" stop-opacity="0" offset="0" />
-      <stop id="Stop183" stop-color="#f6e0bf" stop-opacity="0" offset="0.86" />
-      <stop id="Stop184" stop-color="#f5f9c5" offset="0.96" />
-      <stop id="Stop185" stop-color="#f5f9c5" offset="1" />
+    <radialGradient cx="-3.80140363631654E-13" cy="2.8244073746464E-13" r="107.908417212156" gradientTransform="matrix(-0.997724164481195 -0.0674276768864346 0.0668000258712787 -0.988436841921693 -7.78282638891364E-13 5.35983586423776E-13 )" gradientUnits="userSpaceOnUse" id="RadialGradient178">
+      <stop id="Stop179" stop-color="#ffffff" stop-opacity="0.803921568627451" offset="0" />
+      <stop id="Stop180" stop-color="#ffffff" stop-opacity="0" offset="1" />
     </radialGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -749 -1740 )">
-    <path d="M 0 118  C 0 73.5110698411481  13.9549238369593 32.8280280014678  37.8130871046653 0  L 360.186913093668 0.00255908550388995  C 384.045076163041 32.8280280014678  398 73.5110698411481  398 118  C 398 229.440000000001  310.44 317  199 317  C 87.5599999999999 317  0 229.440000000001  0 118  Z " fill-rule="nonzero" fill="url(#RadialGradient181)" stroke="none" transform="matrix(1 0 0 1 749 1740 )" />
+  <g transform="matrix(1 0 0 1 -970 -1743 )">
+    <path d="M 0.179721561917691 105.99986011374  C 0.119827237544599 105.99995335994  0.0599200389148716 106  0.179721561917691 105.99986011374  Z M 0 105.999860113597  L 0 0  L 107 0  C 107 59.3006399617147  60.0141129807873 105.906707219821  0 105.999860113597  Z " fill-rule="nonzero" fill="url(#RadialGradient178)" stroke="none" transform="matrix(1 0 0 1 970 1743 )" />
   </g>
 </svg>
