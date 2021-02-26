@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="72px" height="121px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="157px" height="262px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="60.4615384615384" cy="60.7300380228136" r="60.5765727327944" gradientTransform="matrix(0 -1 0.992887947840159 0 0.163415636812182 121.191576484352 )" gradientUnits="userSpaceOnUse" id="RadialGradient44">
-      <stop id="Stop45" stop-color="#81d3f8" stop-opacity="0.149019607843137" offset="0" />
-      <stop id="Stop46" stop-color="#81d3f8" stop-opacity="0.149019607843137" offset="0.91" />
-      <stop id="Stop47" stop-color="#555555" stop-opacity="0.603921568627451" offset="0.92" />
-      <stop id="Stop48" stop-color="#f2f2f2" stop-opacity="0.596078431372549" offset="1" />
+    <radialGradient cx="131.839743589744" cy="131.498098859315" r="131.165802115637" gradientTransform="matrix(0 -1 0.999888271051713 0 0.356336874715453 263.337842449059 )" gradientUnits="userSpaceOnUse" id="RadialGradient82">
+      <stop id="Stop83" stop-color="#81d3f8" stop-opacity="0.149019607843137" offset="0" />
+      <stop id="Stop84" stop-color="#81d3f8" stop-opacity="0.149019607843137" offset="0.91" />
+      <stop id="Stop85" stop-color="#555555" stop-opacity="0.603921568627451" offset="0.92" />
+      <stop id="Stop86" stop-color="#f2f2f2" stop-opacity="0.596078431372549" offset="1" />
     </radialGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -340 -2115 )">
-    <path d="M 60.69230698089 0  C 64.565706849586 0  68.3445143251034 0.34573979686424  72 1.00856474460901  L 72 119.991433499081  C 68.3445265895775 120.654259081004  64.5657131353274 121  60.69230698089 121  C 26.7046150715916 121  0 94.3800000000002  0 60.5  C 0 26.6199999999998  26.7046150715916 0  60.69230698089 0  Z " fill-rule="nonzero" fill="url(#RadialGradient44)" stroke="none" transform="matrix(1 0 0 1 340 2115 )" />
+  <g transform="matrix(1 0 0 1 -443 -3129 )">
+    <path d="M 156 2.3992764326921  L 156 214.9274693391  L 109.984559145608 261.442784662067  C 47.1492394823083 251.228851815309  0.500000000000017 197.829239302219  0.500000000000409 131.707106781186  C 0.500000000000004 58.0671067811862  58.3599993217821 0.207106781186301  131.999998458595 0.207106781186326  C 140.392364840769 0.207106781186646  148.579781037724 0.958590802470101  156 2.3992764326921  Z " fill-rule="nonzero" fill="url(#RadialGradient82)" stroke="none" transform="matrix(1 0 0 1 443 3129 )" />
   </g>
 </svg>
